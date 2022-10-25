@@ -3,36 +3,11 @@
 :root{
   --orange:rgb(201, 176, 35);
 }
-/* llll{
-  font-size: 62.5%;
-  overflow-x: hidden;
-  scroll-padding-top: 6rem;
-  scroll-behavior: smooth;
-}
-sen{
-  padding:2rem 9%;
-  background-color: black;
-  
-}
-sed lyf{
-  font-size: 62.5%;
-  overflow-x: hidden;
-  scroll-padding-top: 6rem;
-  scroll-behavior: smooth;
-}
 
-senorita{
-  padding:2rem 9%;
-  background-color: black;
-  
+.ishu{
+    background:goldenrod;
+  color:#fff;
 }
-snehaaaa{
-  font-size: 62.5%;
-  overflow-x: hidden;
-  scroll-padding-top: 6rem;
-  scroll-behavior: smooth;
-} */
-
 
 *{
   font-family: 'Nunito', sans-serif;
