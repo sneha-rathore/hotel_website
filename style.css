@@ -730,3 +730,9 @@ header .search-bar-container label:hover{
   }
 
 }
+sneha{display: block;
+    border-radius: .5rem;
+    padding:1.5rem;
+    margin:1.5rem 0;    
+    background:#222;
+}
