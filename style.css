@@ -3,10 +3,10 @@
 :root{
   --orange:rgb(201, 176, 35);
 }
-
-.ishu_ishu{
-    background:goldenrod;
-  color:#fff;
+.doing_changes{
+padding:3rem;
+ text-align: center;
+ padding:6rem 0;
 }
 
 *{
