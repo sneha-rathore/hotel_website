@@ -3,6 +3,12 @@
 :root{
   --orange:rgb(201, 176, 35);
 }
+llll{
+  font-size: 62.5%;
+  overflow-x: hidden;
+  scroll-padding-top: 6rem;
+  scroll-behavior: smooth;
+}
 
 *{
   font-family: 'Nunito', sans-serif;
