@@ -3,7 +3,7 @@
 :root{
   --orange:rgb(201, 176, 35);
 }
-llll{
+/* llll{
   font-size: 62.5%;
   overflow-x: hidden;
   scroll-padding-top: 6rem;
@@ -31,7 +31,7 @@ snehaaaa{
   overflow-x: hidden;
   scroll-padding-top: 6rem;
   scroll-behavior: smooth;
-}
+} */
 
 
 *{
