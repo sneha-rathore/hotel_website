@@ -9,6 +9,12 @@ llll{
   scroll-padding-top: 6rem;
   scroll-behavior: smooth;
 }
+sen{
+  padding:2rem 9%;
+  background-color: black;
+  
+}
+
 
 *{
   font-family: 'Nunito', sans-serif;
